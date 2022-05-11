@@ -1,0 +1,19 @@
+{
+  "name": "apirestmovies",
+  "version": "1.0.0",
+  "description": "like netflix",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumafullstackcode/apiRestMovies.git"
+  },
+  "author": "@dumafullstackcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dumafullstackcode/apiRestMovies/issues"
+  },
+  "homepage": "https://github.com/dumafullstackcode/apiRestMovies#readme"
+}
